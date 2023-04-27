@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+Flutter & Dart 기반, 나에 대한 퀴즈 앱. 
 
 ## Getting Started
 
